@@ -1,4 +1,3 @@
-docker-lua
-==========
+# Lua Docker container
 
-Lua Docker container (ubuntu, lua, luarocks)
+Ubuntu based, with Lua and Lua Rocks installed.
